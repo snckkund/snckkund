@@ -35,3 +35,5 @@ src="https://img.shields.io/github/followers/snckkund?logo=github&style=for-the-
 <a href="http://www.github.com/snckkund"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=snckkund&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/snckkund" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snckkund&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![GitHub commits](https://img.shields.io/github/last-commit/your-username/your-repository-name)](https://github.com/your-username/your-repository-name/commits/main)
