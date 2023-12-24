@@ -10,7 +10,9 @@ Hi 👋 My name is chandrakant
 * ⚡  I am the Q\* AGI that ChatGpt is working on 🤖🤫
 
 <a href="https://www.github.com/snckkund" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/snckkund?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/snckkund?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.x.com/chandujodd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/chandujodd?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
+/></a>
 
 ### Skills
 
