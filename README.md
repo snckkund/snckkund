@@ -1,7 +1,7 @@
 Hi 👋 My name is chandrakant
 ============================
 
-* 🌍  I'm based in Cuttack, Odisha
+* 🌍  I'm From Cuttack, Odisha
 * 🖥️  See my portfolio at [MyPortfolio](http://snckkund.me)
 * ✉️  You can contact me at [sn003chandrakant@gmail.com](mailto:sn003chandrakant@gmail.com)
 * 🚀  I'm currently working on [MachineLearning](http://github.com/snckkund/MachineLearning.git)
