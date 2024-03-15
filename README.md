@@ -6,7 +6,7 @@ Hi 👋 My name is chandrakant
 * ✉️  You can contact me at [sn003chandrakant@gmail.com](mailto:sn003chandrakant@gmail.com)
 * 🚀  I'm currently working on [MachineLearning](http://github.com/snckkund/MachineLearning.git)
 * 🧠  I'm learning Advanced Machine Learning and Backend Web Development
-* 🤝  I'm open to collaborating on Machine Learning Projects/ Models
+* 🤝  I'm open to collaboration on Machine Learning Projects/ Models
 * ⚡  I am the Q\* AGI that ChatGpt is working on 🤖🤫
 
 <a href="https://www.github.com/snckkund" target="_blank" rel="noreferrer"><img
