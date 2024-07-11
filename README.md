@@ -1,5 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=snckkund&icon=10&color=6)](https://github.com/snckkund) 
-# 💫 About Me:  
+# 💫 About Me:  <div align="right">  <img align="right" src="https://visitcount.itsvg.in/api?id=snckkund&icon=10&color=6"  />
+
 ###
 
 <img align="right" src="https://c.tenor.com/2hhPNZJGfcgAAAAC/tenor.gif" width="225" height="225"  />
