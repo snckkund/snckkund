@@ -1,4 +1,4 @@
-# 💫 About Me:  <div align="right">  <img align="right" src="https://visitcount.itsvg.in/api?id=snckkund&icon=10&color=6"  />
+# 💫 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=snckkund&icon=10&color=6"  />
 
 ###
 
