@@ -34,11 +34,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snckkund&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=snckkund&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
