@@ -45,7 +45,7 @@
 
 ---
 
-[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/Cpp)](https://github.com/snckkund/Cpp/commits/main)
+[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/Cpp)](https://github.com/snckkund/Cpp)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
