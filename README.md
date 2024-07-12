@@ -8,7 +8,7 @@
 * 🌍  Cuttack, Odisha
 * 🖥️  See my portfolio 👉 [MyPortfolio](http://snckkund.me)
 * ✉️  Reach me at [sn003chandrakant@gmail.com](mailto:sn003chandrakant@gmail.com)
-* 🚀  Currently working on [MachineLearning🔒](http://github.com/snckkund/MachineLearning.git)
+* 🚀  Currently working on [ML🔒](http://github.com/snckkund/Machine-Learning-Specialization-Coursera.git) and [Cpp](http://github.com/snckkund/Cpp.git)
 * 🧠  Currently learning ML
 * 🌥️  Ask me about Data Structures
 * 👯  Open to collaboration on Machine Learning Projects and Models
@@ -45,7 +45,7 @@
 
 ---
 
-[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/coding)](https://github.com/snckkund/coding/commits/main)
+[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/Cpp)](https://github.com/snckkund/Cpp/commits/main)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
