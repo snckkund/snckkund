@@ -24,7 +24,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/only.chandu_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snck-kund) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20346299/chandrakant06) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chandujodd) 
 
 
-# 📊 GitHub Stats:
+# 📊 My Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snckkund&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -35,8 +35,20 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=snckkund&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <h3 style="margin: 0;">LeetCode Stats</h3>
+      <img src="https://leetcard.jacoblin.cool/sn003chandrakant?ext=activity" alt="LeetCode Stats Card" height="300"/>
+    </td>
+    <td style="text-align: center;">
+      <h3 style="margin: 0;">GitHub Contributor Stats</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=snckkund&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
