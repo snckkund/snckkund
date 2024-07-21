@@ -35,19 +35,25 @@
 </div>
 
 
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: center;">
-      <h3 style="margin: 0;">LeetCode Stats:</h3>
-      <img src="https://leetcard.jacoblin.cool/sn003chandrakant?ext=activity" alt="LeetCode Stats Card" height="300"/>
-    </td>
-    <td style="text-align: center;">
-      <h3 style="margin: 0;">GitHub Contributor Stats:</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=snckkund&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300"/>
-    </td>
-  </tr>
-</table>
 
+<table class="responsive-table">
+  <thead>
+    <tr>
+      <th>LeetCode Stats</th>
+      <th>GitHub Contributor Stats</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="LeetCode Stats">
+        <img src="https://leetcard.jacoblin.cool/sn003chandrakant?ext=activity" alt="LeetCode Stats Card" height="300"/>
+      </td>
+      <td data-label="GitHub Contributor Stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=snckkund&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
