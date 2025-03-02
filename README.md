@@ -1,4 +1,4 @@
-# 💫 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=snckkund&icon=10&color=6"  />
+# 💫 About Me:  <img align="right" src="https://komarev.com/ghpvc/?username=snckkund"  />
 
 ###
 
@@ -63,7 +63,7 @@
 
 ---
 
-[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/Cpp)](https://github.com/snckkund/Cpp)
+[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/ASL-Detection)](https://github.com/snckkund/ASL-Detection)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
