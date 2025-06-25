@@ -63,7 +63,7 @@
 
 ---
 
-[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/ASL-Detection)](https://github.com/snckkund/ASL-Detection)
+[![GitHub commits](https://img.shields.io/github/last-commit/snckkund/LeetCode-POTD)](https://github.com/snckkund/LeetCode-POTD)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
